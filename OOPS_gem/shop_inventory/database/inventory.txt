@@ -1,0 +1,4 @@
+1  watch  2000  3  sonata
+2  mouse  200  2  microsoft
+3  keyboard  1200  4  microsoft
+4  computer  29800  5  Dell

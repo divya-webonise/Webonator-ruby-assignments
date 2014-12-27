@@ -1,0 +1,45 @@
+template_no,overall_priority,chunk_priority,points,output,fix
+1,59,8,9.51,Good balance on your back foot. Right knee is inside of right foot which is good position.   Good weight balance through the ball of your back foot.,""
+2,59,8,1.9,"Your balance is too far forward at stance.  Your right knee is much too far forward and low, or your feet placement is too wide.","Stand up taller and have a more comfortable balance.  Or, move your feet closer together"
+3,59,8,6.66,"Your balance is too far forward at stance.  Or, your feet placement is too wide.","Stand up taller and have a more comfortable balance.  Or, move your feet closer together"
+4,59,8,6.66,Your weight is too far back.  You are too flat-footed.,Shift weight forward to a more centered position.  You should feel the weight on the ball of your right foot.
+5,59,8,1.9,Your weight is much too far back.  Your right knee is behind your right foot.,"Shift weight forward to a more centered position.  Avoid pointing your back knee toward the catcher.  Make sure your feet are square, pointing toward the plate."
+6,63,12,9.36,Good balance on your front foot. Left knee is inside of left foot which is good position.   Good weight balance through the ball of your left foot.,Nothing.  Good job!
+7,63,12,1.87,"Your balance is too far backward at stance.  Your left knee is much too far backward and low, or your feet placement is too wide.","Stand up taller and have a more comfortable balance.  Or, move your feet closer together"
+8,63,12,6.55,"Your balance is too far backward at stance.  Or, your feet placement is too wide.","Stand up taller and have a more comfortable balance.  Or, move your feet closer together"
+9,63,12,6.55,You are standing too flat-footed.  Your left knee is over your left foot.,"Shift weight to more centered position, You should feel the weight on the ball of your left foot."
+10,63,12,6.55,You are standing too far forward.  Your left knee if in front of your left foot.,Reposition your left knee so it is located inside of your left foot.
+11,56,5,9.61,"Good balance, with your weight centered.","Nothing.   Your right knee is inside of your right foot.   (Relate this template to Templates 1 to 5, which provide granularity on this finding)"
+12,56,5,1.87,Your right knee is outside the right foot.,Square up to the plate.  Reposition your knee in front of your right foot.  Be sure you are squared-up to the plate.
+13,62,11,9.4,"Good balance, with your weight centered.","Nothing.   Your left knee is inside of your left foot.   (Relate this template to Templates 6 - 10, which provide granularity on this finding)"
+14,62,11,1.88,Your left knee is outside the left foot.,Square up to the plate.  Reposition your left knee in behind your left foot.  Be sure you are squared-up to the plate.
+15,57,6,9.58,"Good balance, with your weight centered.",Nothing.  You have good weight through the inside of your right leg and weight is driving through the ball of your right foot nicely.
+16,57,6,1.92,Your right knee is too far forward related to your right hip.  Your weight is too far back on your right foot.,Center your hips between your feet.   
+17,58,7,9.54,Good centered weight balance between your feet. (high chunk priority),Nothing.  Your weight should be centered equally between your feet.  (Relate this to hips being level template later).
+18,58,7,1.91,Your weight is much too far forward.   Either your feet are too wide or your weight is too far forward.,Move your weight back to a much more centered and balanced position.
+19,58,7,6.68,Your weight is too far forward.   Either your feet are too wide or your weight is too far forward.,Move your weight back to a more centered and balanced position.
+20,58,7,6.68,Your weight is too far backward.   Either your feet are too close together or your weight is too far backward.,Move your weight forward to a much more centered and balanced position.
+21,58,7,1.91,Your weight is much too far backward.   Either your feet are too close together or your weight is too far backward.,Move your weight back to a much more centered and balanced position.
+22,61,10,9.43,"Good balance, with your weight centered.",Nothing.  You have good weight through the inside of your left leg and weight is driving through the ball of your left foot nicely.
+23,61,10,1.89,Your left knee is too far backward related to your left hip.  Your weight is too far forward on your left foot.,Center your hips between your feet.   
+24,60,9,9.47,Good centered weight balance between your feet. (high chunk priority),Nothing.  Your weight should be centered equally between your feet.  (Relate this to hips being level template later).
+25,60,9,1.89,Your weight is much too far backward.   Either your feet are too wide or your weight is too far backward.,"Move your weight forward to a much more centered and balanced position, or move your feet closer together."
+26,60,9,6.63,Your weight is too far backward.   Either your feet are too wide or your weight is too far backward.,Move your weight back to a more centered and balanced position.
+27,60,9,6.63,Your weight is too far forward.   Either your feet are too close together or your weight is too far forward.,"Move your weight backward to a much more centered and balanced position, or spread your feet farther apart."
+28,60,9,1.89,Your weight is much too far forward.   Either your feet are too close together or your weight is too far forward.,"Move your weight backward to a much more centered and balanced position, or spread your feet farther apart."
+29,31,2,11.63,Your hips are level with the ground.,"Nothing.    This is a good, balanced position."
+30,31,2,8.14,Your hips are not level. Your left hip is too far above your right.   This will cause your swing path to be too uphill.,Your hips should be level.
+31,31,2,2.33,Your hips are not level. Your right hip is too far above your left.   This will cause your swing path to be too downhill.,Your hips should be level.
+39,30,1,12.25,Good.  ,Nothing.  Your head should be centered between your feet.
+40,30,1,2.45,Your head is too far forward related to the center of your stance.,Your head should be centered between your feet.
+41,30,1,2.45,Your head is too far behind the center of your stance.,Your head should be centered between your feet.
+42,65,14,9.29,Good.  Your hands are below your head.,Your hands should be below and behind your head.
+43,65,14,1.86,Your hands are too high.,"Move your hands lower.  At this point in the stance, they should be below and behind your head."
+44,64,13,9.33,Good. You hands are behind your head.,Your hands should be behind and below your head.
+45,64,13,1.87,Your hands are too far forward compared to your head.,"Move your hands backward.  At this point in the stance, they should be behind and below your head."
+46,67,16,9.22,Good!  Your hands are in front of your right foot.,Nothing.  Your hands should be in front of your right foot.
+47,67,16,1.84,Your hands are behind your right foot.,"Move your hands forward, or spread your feet farther apart."
+48,66,15,9.25,Good!  Your hands are at a good height in your stance.,Nothing.  Your hands should be above your hip.  
+49,66,15,1.85,Your hands are below your hip.,Raise your hands above your hip.
+60,32,3,11.02,Good!  Your right elbow is below your right shoulder.,Nothing.  Your right elbow should be below your right shoulder.
+61,32,3,2.2,Your right elbow is above your right shoulder.,"Lower your right elbow so it is below your right shoulder.  Take a deep breath, relax and decompress.  You may be bearing down too much."

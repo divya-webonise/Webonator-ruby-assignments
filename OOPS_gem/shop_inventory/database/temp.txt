@@ -1,0 +1,4 @@
+1  laptop  20000  2  Dell
+2  Mouse  200  3  Frontec
+3  Keyboard  1200  2  Frontec
+4  notebook  20  10  Vijayshree
