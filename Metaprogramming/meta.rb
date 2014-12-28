@@ -21,5 +21,5 @@ class Meta
   end
 end
 
-m=Meta.new
-m.file_name
+meta=Meta.new
+meta.file_name
